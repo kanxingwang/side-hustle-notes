@@ -1,1 +1,9 @@
 # side-hustle-notes
+
+ ```
+   # Side Hustle Notes
+   
+   一个工作X年的程序员，正在记录从死工资到副业的每一步。
+   
+   今天是我写的第一段。
+   ```
